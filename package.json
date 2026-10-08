@@ -1,0 +1,30 @@
+{
+  "name": "falcoscan-mcp",
+  "version": "1.1.0",
+  "description": "Connect MCP clients to FalcoScan, AI market intelligence on 7,000+ AI products across 29 markets.",
+  "type": "module",
+  "bin": {
+    "falcoscan-mcp": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "falcoscan",
+    "ai-market-intelligence",
+    "ai-tools"
+  ],
+  "homepage": "https://falcoscan.com/mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyachisn/falcoscan-mcp.git"
+  },
+  "license": "MIT"
+}
