@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "falcoscan": {
+      "url": "https://falcoscan.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:FALCOSCAN_API_KEY}"
+      }
+    }
+  }
+}
